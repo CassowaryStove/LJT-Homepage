@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Junteng Liu
-
 Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. His research focuses on natural language processing and machine learning.
 
 ## Personal Details
